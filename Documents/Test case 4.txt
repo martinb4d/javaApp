@@ -1,0 +1,8 @@
+1. navigate to login screen (localhost:8080/login)
+2. login as : customer (username: customer2 | password: password)
+3. input quantity for cell phone, groceries and food
+4. click confirm button
+5. system should show the final price for each item after applying percentage discount(10% for non groceries because this is a 2 years+ customer) and amount based discount(5$ for every 100$) as well as the total amount
+6. click submit to finalize the purchase
+7. logout
+8. click history to check the purchase history
